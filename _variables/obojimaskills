@@ -1,0 +1,12 @@
+var iFileName = "obojimaskills.js";
+RequiredSheetVersion("13.2.3");
+// This file adds two new skills to the sheet to reflect Obojima
+
+SkillsList["Mech"] = {
+	abbreviation : "Mech",
+	abilityScores : "Int",
+	names : "Mechanics",
+	abbreviationsByAS : "Mech",
+	abilityScoresByAS : "Int",
+	namesByAS : "Mechanics",
+};
